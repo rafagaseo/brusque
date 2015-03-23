@@ -1,4 +1,4 @@
-Nucleo de TI de Brusque 
+TI de Brusque
 =======
 
-Repositorio pra ideias sociais, pra cidade de Brusque e região.
+Repositório pra ideias sociais, pra cidade de Brusque e região.
